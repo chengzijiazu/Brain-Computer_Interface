@@ -1,3 +1,4 @@
+#计算Gamma\Beta\Alpha\Theta\Delta数值
 import time
 import numpy as np
 from brainflow.board_shim import BoardShim, BrainFlowInputParams, BoardIds
